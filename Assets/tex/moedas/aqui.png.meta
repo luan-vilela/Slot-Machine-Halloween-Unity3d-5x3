@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 15c92aa8326993448b3e6e9c21161f2d
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: aqui_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_6
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_7
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_8
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_9
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_10
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_11
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_12
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_13
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_14
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_15
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 133
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_20
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_23
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_24
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_25
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_26
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_27
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_28
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_29
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aqui_30
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

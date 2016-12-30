@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: fce74cf903295d04ebc1e3a7f71f08eb
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MAGO_VERDE_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 80
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_8
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_9
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_10
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MAGO_VERDE_11
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

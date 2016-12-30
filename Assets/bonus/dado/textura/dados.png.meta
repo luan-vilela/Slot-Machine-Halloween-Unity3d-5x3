@@ -1,0 +1,693 @@
+fileFormatVersion: 2
+guid: 4716fc930555ecf4a801f2abae9d9c55
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dados_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_7
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_9
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_10
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_11
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_12
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 645
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_17
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_18
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_19
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_20
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_21
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_22
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_23
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_24
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_25
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 517
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_31
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_32
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_33
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_34
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_35
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_36
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_37
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_38
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 389
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_45
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_46
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_47
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_48
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_49
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_50
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 261
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_55
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_56
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_57
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_58
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_59
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_60
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_61
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 133
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 5
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_65
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_66
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_67
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 5
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_68
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_69
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 5
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_70
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 5
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dados_71
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 5
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

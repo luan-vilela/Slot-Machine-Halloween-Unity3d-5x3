@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 9e545de653c2e83439ce385bd3ef83cd
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: medusaMorte_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 28
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: medusaMorte_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 32
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: medusaMorte_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: medusaMorte_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 33
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: medusaMorte_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 34
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: medusaMorte_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 36
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: medusaMorte_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 36
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: medusaMorte_13
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 39
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: medusaMorte_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 36
+        width: 73
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: medusaMorte_16
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 36
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: medusaMorte_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 34
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: medusaMorte_12
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 35
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: medusaMorte_12
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 34
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

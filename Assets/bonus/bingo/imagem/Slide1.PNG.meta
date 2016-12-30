@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: d866559cdd1634d4185907f94cf3574c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 160
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Slide1_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 438
+        width: 154
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Slide1_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 442
+        width: 131
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Slide1_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 442
+        width: 145
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Slide1_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 438
+        width: 143
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Slide1_4
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 441
+        width: 159
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Slide1_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 38
+        width: 142
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Slide1_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 38
+        width: 148
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Slide1_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 40
+        width: 146
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Slide1_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 38
+        width: 153
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Slide1_9
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 38
+        width: 149
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

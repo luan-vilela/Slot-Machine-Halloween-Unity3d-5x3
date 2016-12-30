@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: 5aa188362b64ec74893153730d663f47
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: _
+    100002: _1
+    100004: _2
+    100006: _3
+    100008: _4
+    100010: _5
+    100012: //RootNode
+    400000: _
+    400002: _1
+    400004: _2
+    400006: _3
+    400008: _4
+    400010: _5
+    400012: //RootNode
+    2300000: _
+    2300002: _1
+    2300004: _2
+    2300006: _3
+    2300008: _4
+    2300010: _5
+    2300012: //RootNode
+    3300000: _
+    3300002: _1
+    3300004: _2
+    3300006: _3
+    3300008: _4
+    3300010: _5
+    3300012: //RootNode
+    4300000: Null
+    4300002: _4
+    4300004: _5
+    4300006: _
+    4300008: _1
+    4300010: _2
+    4300012: _3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
